@@ -13,6 +13,23 @@ El proyecto está organizado de la siguiente manera:
 
 ## Estructura Detallada
 
+## Estructura General
+
+| Tipo | Nombre | Descripción |
+|------|--------|-------------|
+| Archivo HTML | index.html | Página de inicio |
+| Archivo HTML | sobre-nosotros.html | Información sobre Teatro La Lentitud |
+| Archivo HTML | experiencias.html | Detalles de las experiencias teatrales |
+| Archivo HTML | galeria.html | Galería de imágenes y videos |
+| Archivo HTML | contacto.html | Formulario y detalles de contacto |
+| Carpeta | css/ | Contiene los estilos del sitio |
+| Carpeta | js/ | Contiene los scripts de JavaScript |
+| Carpeta | img/ | Almacena todas las imágenes utilizadas |
+| Carpeta | docs/ | Documentación adicional del proyecto |
+| Archivo | README.md | Visión general del proyecto |
+| Archivo | STRUCTURE.md | Este archivo, describe la estructura |
+| Archivo | .gitignore | Especifica archivos ignorados por Git |
+
 ### Archivos en la Raíz
 
 | Archivo | Descripción |
