@@ -1,7 +1,10 @@
 # Teatro La Lentitud - Sitio Web Oficial
 
+## 🌐 Sitio Web en Vivo
+Visita nuestro sitio web: [https://araujoycristian.github.io/Sitio-web-de-Teatro-La-Lentitud/](https://araujoycristian.github.io/Sitio-web-de-Teatro-La-Lentitud/)
+
 ## Visión General
-Teatro La Lentitud es un proyecto artístico que busca explorar la pausa y la reflexión a través de experiencias teatrales únicas. Este repositorio contiene el código fuente para nuestro sitio web oficial.
+Teatro La Lentitud es un proyecto artístico que busca explorar la pausa y la reflexión a través de experiencias teatrales únicas. Este repositorio contiene el código fuente para nuestro sitio web oficial, actualmente alojado en GitHub Pages.
 
 ## Filosofía del Proyecto
 "La lentitud es lucidez" - Esta frase captura la esencia de nuestro enfoque. Buscamos crear un espacio digital que invite a la contemplación y la desaceleración.
@@ -48,6 +51,9 @@ Teatro La Lentitud es un proyecto artístico que busca explorar la pausa y la re
 - [ ] Implementación de CSS base
 - [ ] Desarrollo de páginas secundarias
 - [ ] Sistema de reservas serverless
+
+## Despliegue
+Este sitio web está desplegado utilizando GitHub Pages, lo que nos permite mantener una presencia en línea fácilmente actualizable y accesible para nuestra comunidad en crecimiento.
 
 ## Cómo Contribuir
 [Instrucciones detalladas sobre cómo configurar el entorno de desarrollo y contribuir al proyecto]
